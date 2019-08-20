@@ -15,12 +15,12 @@ vue全家桶
 * 城市定位	get	       http://39.97.33.178/api/getLocation
 
 ### 项目截图预览
-![城市](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/city.png) 
-![正在热映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/hot.png) 
-![即将上映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/coming.png) 
-![搜索](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/search.png) 
-![影院](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/cinema.png) 
-![登录](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/login.png) 
+![城市](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/city.png) <br>
+![正在热映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/hot.png) <br>
+![即将上映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/coming.png) <br>
+![搜索](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/search.png) <br>
+![影院](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/cinema.png) <br>
+![登录](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/login.png) <br>
 ## Project setup
 ```
 npm install
