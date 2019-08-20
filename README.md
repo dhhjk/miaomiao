@@ -19,7 +19,7 @@ vue全家桶
 ![正在热映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/截图/hot.png) 
 ![即将上映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/截图/coming.png) 
 ![搜索](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/截图/search.png) 
-![影院](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/截图/cinema.png) 
+![影院](https://raw.githubusercontent.com/dhhjk/miaomiao/setData/src/assets/%E6%88%AA%E5%9B%BE/cinema.png) 
 ![登录](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/截图/login.png) 
 
 ## Project setup
