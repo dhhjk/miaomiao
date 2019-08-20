@@ -14,6 +14,14 @@ vue全家桶
 * 影院	    get   	   http://39.97.33.178/api/cinemaList?cityId=10
 * 城市定位	get	       http://39.97.33.178/api/getLocation
 
+### 项目截图预览
+![城市](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/city.png) 
+![正在热映](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/hot.png) 
+![即将上映](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/coming.png) 
+![搜索](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/search.png) 
+![影院](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/cinema.png) 
+![登录](https://github.com/dhhjk/miaomiao/tree/dev/src/setData/截图/login.png) 
+
 ## Project setup
 ```
 npm install
