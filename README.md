@@ -14,7 +14,7 @@ vue全家桶
 * 影院	    get   	   http://39.97.33.178/api/cinemaList?cityId=10
 * 城市定位	get	       http://39.97.33.178/api/getLocation
 
-### 项目截图预览 
+### 项目截图预览
 ![城市](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo/city.png) 
 ![正在热映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo/hot.png) 
 ![即将上映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo/coming.png) 
