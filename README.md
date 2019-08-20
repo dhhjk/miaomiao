@@ -14,6 +14,7 @@ vue全家桶
 * 影院	    get   	   http://39.97.33.178/api/cinemaList?cityId=10
 * 城市定位	get	       http://39.97.33.178/api/getLocation
 
+
 ### 项目截图预览
 
 #### 城市
