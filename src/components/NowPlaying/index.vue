@@ -5,9 +5,9 @@
 			<ul>
 				<li class="pullDown">{{pullDownMsg}}</li>
 				<li v-for="item in movieList" :key="item.id">
-					<div class="pic_show" @tap="handleToDetail"><img :src="item.img | setWH('128.180')"></div>
+					<div class="pic_show" @tap="handleToDetail(item.id)"><img :src="item.img | setWH('128.180')"></div>
 					<div class="info_list">
-						<h2>{{item.nm}}<img v-if="item.version" src="../../assets/maxs.png" alt=""></h2>
+						<h2 @tap="handleToDetail(item.id)">{{item.nm}}<img v-if="item.version" src="../../assets/maxs.png" alt=""></h2>
 						<p>观众评 <span class="grade">{{item.sc}}</span></p>
 						<p>主演: {{item.star}}</p>
 						<p>{{item.showInfo}}</p>
@@ -46,41 +46,13 @@ export default {
 				this.movieList = res.data.data.movieList;
 				this.isLoading = false
 				this.prevCityId = cityId
-				// this.$nextTick(() => {
-				// 	var scroll = new BScroll(this.$refs.movie,{
-				// 		tap: true,
-				// 		probeType: 1
-				// 	})
-
-				// 	scroll.on("scroll",(pos) => {
-				// 		// console.log("scroll");	
-				// 		if(pos.y > 30) {
-				// 			this.pullDownMsg = "正在更新中"				
-				// 		}
-				// 	})
-
-				// 	scroll.on("touchEnd",(pos) => {
-				// 		// console.log("touchEnd");	
-				// 		if(pos.y > 30) {
-				// 			this.axios.get("/api/movieOnInfoList?cityId=10").then((res) => {
-				// 				var msg = res.data.msg;
-				// 				if(msg === "ok") {
-				// 					this.pullDownMsg = "更新已完成"	
-				// 					setTimeout(() => {
-				// 						this.movieList = res.data.data.movieList;
-				// 						this.pullDownMsg = ""
-				// 					},1000)
-				// 				}	
-				// 			})			
-				// 		}
-				// 	})
-				// })
 			}
 		})
 	},
 	methods: {
-		handleToDetail() {
-			console.log("handleToDetail");
+		handleToDetail(movieId) {
+			// console.log(movieId);
+			this.$router.push("/movie/detail/1/" +movieId)
 		},
 		handleToScroll(pos) {
 			if(pos.y > 30) {
