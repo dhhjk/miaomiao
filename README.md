@@ -18,17 +18,17 @@ vue全家桶
 ### 项目截图预览
 
 #### 城市
-![城市](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/city.png) <br>
+![城市](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/city.png) <br>
 #### 正在热映              
-![正在热映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/hot.png) <br>   
+![正在热映](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/hot.png) <br>   
 #### 即将上映        
-![即将上映](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/coming.png) <br>     
+![即将上映](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/coming.png) <br>     
 #### 搜索       
-![搜索](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/search.png) <br>    
+![搜索](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/search.png) <br>    
 #### 影院         
-![影院](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/cinema.png) <br> 
+![影院](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/cinema.png) <br> 
 #### 登录               
-![登录](https://github.com/dhhjk/miaomiao/raw/setData/src/assets/photo1/login.png) <br>   
+![登录](https://github.com/dhhjk/miaomiao/raw/dev/src/assets/photo1/login.png) <br>   
 
 
 ## Project setup
