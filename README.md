@@ -1,5 +1,7 @@
 # miaomiao
 
+please use dev branch or getCity branch 
+
 ## Project setup
 ```
 npm install
